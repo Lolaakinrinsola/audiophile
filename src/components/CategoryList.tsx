@@ -11,7 +11,7 @@ const CategoryList = () => {
         {products.map((val,index)=>(
         <div className="rounded-[8px] bg-grey grid gap-[11px] text-center justify-center py-[20px] md:py-[30px] relative w-full " key={index}>
             <div className="absolute top-[-30%] md:top-[-40%] m-auto w-full  ">
-            <img src={val.image} alt={val.name} className=" grid   m-auto justify-center w-[80px] h-[104px] md:w-full md:h-full" />
+            <img src={val.image} alt={val.name} className=" grid   m-auto justify-center w-[80px] h-[104px] md:w-[125px] md:h-[160px] " />
 
             </div>
             <div className="grid mt-[30%] md:mt-[60%]">
