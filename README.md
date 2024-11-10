@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Solution URL: [ solution URL here](https://www.frontendmentor.io/solutions/audiophile-ecommerce-using-zustand-1Z27Qdd4ek)
 - Live Site URL: [Audiophile E-commerce Website](https://audiophile-omega-navy.vercel.app/)
 
 ## My process
