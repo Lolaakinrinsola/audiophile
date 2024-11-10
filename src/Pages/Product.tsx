@@ -126,7 +126,7 @@ const Product = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-[80px]" >
         {randomProducts.map((val:any,index:any)=>(
           <div className="grid gap-[40px] "key={index}>
-            <div className=" bg-grey h-[318px] grid justify-center m-auto w-[350px]">
+            <div className=" bg-grey h-[318px] grid justify-center m-auto w-full md:w-[350px]">
               <img src={val.image} className="m-auto w-[150px] h-[190px]" alt={val.name} />
             </div>
             <p className="font-bold text-[24px] uppercase">{val.name}</p>

@@ -11,7 +11,7 @@ const Home = () => {
       <div className="min-h-screen w-screen bg-[#121212] px-[11%] justify-between flex flex-wrap pt-[120px] lg:pt-0 items-center">
         <div className=" max-w-[26%] text-white grid gap-[24px] h-fit">
           <p className="font-thin text-[14px] text-grey">NEW PRODUCT</p>
-          <p className="font-bold text-[56px]">XX99 Mark II HeadphoneS</p>
+          <p className="font-bold text-[40px] md:text-[56px]">XX99 Mark II HeadphoneS</p>
           <p className="text-[15px]">
             Experience natural, lifelike audio and exceptional build quality
             made for the passionate music enthusiast.
